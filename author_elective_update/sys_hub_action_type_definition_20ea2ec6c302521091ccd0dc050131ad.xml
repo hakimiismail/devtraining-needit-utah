@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <attributes>{labelCacheCleanUpExecuted=true}</attributes>
+        <authored_on_release_version>26000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category display_value="">{}</category>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <flow_priority/>
+        <ih_action>false</ih_action>
+        <internal_name>update_overdue_needit_task_priority</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>Update Overdue NeedIt Task Priority</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 04:18:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20ea2ec6c302521091ccd0dc050131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Overdue NeedIt Task Priority</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_20ea2ec6c302521091ccd0dc050131ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 04:18:52</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_variable_value action="DELETE" query="document_key=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_hub_step_instance action="DELETE" query="action=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_hub_action_input action="DELETE" query="model=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_hub_action_output action="DELETE" query="model=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_hub_action_plan action="DELETE" query="action_id=20ea2ec6c302521091ccd0dc050131ad"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>95253f8e1b0d46d4c8432f8dee4bcb23</instance_id>
+        <instance_name>dev247719</instance_name>
+        <name>sys_hub_action_type_definition_20ea2ec6c302521091ccd0dc050131ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_status/><action_template/><active>true</active><annotation/><attributes>{labelCacheCleanUpExecuted=true}</attributes><authored_on_release_version>26000</authored_on_release_version><callable_by_client_api>false</callable_by_client_api><category display_value="">{}</category><compiler_build/><copied_from/><copied_from_name/><description/><flow_priority/><ih_action>false</ih_action><internal_name>update_overdue_needit_task_priority</internal_name><label_cache/><latest_snapshot/><master_snapshot/><master_snapshot_digest/><name>Update Overdue NeedIt Task Priority</name><natlang/><outputs/><pre_compiled>false</pre_compiled><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-25 04:18:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>20ea2ec6c302521091ccd0dc050131ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Overdue NeedIt Task Priority</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_hub_action_type_definition_20ea2ec6c302521091ccd0dc050131ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-25 04:18:52</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=20ea2ec6c302521091ccd0dc050131ad"/><sys_variable_value action="delete_multiple" query="document_key=20ea2ec6c302521091ccd0dc050131ad"/><sys_hub_step_instance action="delete_multiple" query="action=20ea2ec6c302521091ccd0dc050131ad"/><sys_hub_action_input action="delete_multiple" query="model=20ea2ec6c302521091ccd0dc050131ad"/><sys_hub_action_output action="delete_multiple" query="model=20ea2ec6c302521091ccd0dc050131ad"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=20ea2ec6c302521091ccd0dc050131ad"/><sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=20ea2ec6c302521091ccd0dc050131ad"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_20ea2ec6c302521091ccd0dc050131ad"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_20ea2ec6c302521091ccd0dc050131ad"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_20ea2ec6c302521091ccd0dc050131ad"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_20ea2ec6c302521091ccd0dc050131ad"/><sys_hub_action_plan action="delete_multiple" query="action_id=20ea2ec6c302521091ccd0dc050131ad"/></record_update>]]></payload>
+        <payload_hash>896224943</payload_hash>
+        <record_name>Update Overdue NeedIt Task Priority</record_name>
+        <reverted_from/>
+        <source>8004989dc3cad21091ccd0dc0501318b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 04:18:52</sys_created_on>
+        <sys_id>fceae60ac302521091ccd0dc050131a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193618b33130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 04:18:52</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>b0eae60a0e025210e6a17fde2da39da0</update_guid>
+        <update_guid_history>b0eae60a0e025210e6a17fde2da39da0:896224943</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 04:19:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>340f075cfda14a21b17be51ba60e62e1</sys_id>
+        <sys_metadata>20ea2ec6c302521091ccd0dc050131ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Overdue NeedIt Task Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_20ea2ec6c302521091ccd0dc050131ad</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_20ea2ec6c302521091ccd0dc050131ad">fceae60ac302521091ccd0dc050131a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 04:19:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
